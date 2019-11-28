@@ -92,7 +92,7 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 ## Software
 
-* [GitHub](https://github.com/) - 32 million public repositories
+* [GitHub](https://github.com/) - 32 million public repositories.
 * [Google Code Archive](https://code.google.com/archive/) -  it contains over 1.4 million projects.
 * [Software Heritage](https://www.softwareheritage.org/) - it holds over 20 million software projects, with an archive of over 2.7 billion unique source files as of 2016.
 
