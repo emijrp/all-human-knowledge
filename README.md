@@ -1,5 +1,19 @@
 # All Human Knowledge
 
+- [All Human Knowledge](#all-human-knowledge)
+    - [Astronomy](#astronomy)
+    - [Biology](#biology)
+    - [Film and videos](#film-and-videos)
+    - [Geography](#geography)
+    - [GLAM](#glam)
+    - [Literature, languages and publications](#literature-languages-and-publications)
+    - [Music](#music)
+    - [Photography](#photography)
+    - [Software](#software)
+    - [Websites](#websites)
+    - [Other](#other)
+- [Contributing](#contributing)
+
 ## Astronomy
 <img align="right" width="200px" src="images/NGC4676.jpg" />
 
@@ -64,6 +78,10 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 * Instagram
 * Telegram
 * Twitter
+
+## Other
+
+* ...
 
 ## External links
 
