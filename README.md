@@ -21,6 +21,7 @@ According to Google there are 129,864,880 books (considering all editions separa
 
 ## Videos
 
+* [YouTube](https://www.youtube.com/) - over 500 hours of video content are uploaded to YouTube every minute
 
 ## External links
 
