@@ -49,8 +49,8 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 ## Photography
 
-* [Flickr](https://www.flickr.com/) - 
-* [Geograph Britain and Ireland](https://www.geograph.org.uk/) - 
+* [Flickr](https://www.flickr.com/) - it hosts more than 6 billion images as of 2011.
+* [Geograph Britain and Ireland](https://www.geograph.org.uk/) - archive of over 5 million geographically located photographs of Great Britain and Ireland.
 * [Wikimedia Commons](https://commons.wikimedia.org/) - a collection of 57 million freely usable media files to which anyone can contribute.
 
 ## Software
