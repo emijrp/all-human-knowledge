@@ -31,6 +31,10 @@ According to Google there are 129,864,880 books (considering all editions separa
 * Flickr
 * Wikimedia Commons
 
+## Languages
+
+* Wiktionary
+
 ## Software
 
 * [GitHub](https://github.com/) - 32,000,000 public repositories
