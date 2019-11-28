@@ -95,6 +95,8 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 * [GitHub](https://github.com/) - 32 million public repositories
 * [Google Code Archive](https://code.google.com/archive/) -  it contains over 1.4 million projects.
 
+Some related inactive projects are [Gitorious](https://gitorious.org/) and [Google Code](https://code.google.com/).
+
 ## External links
 
 * [All Human Knowledge](https://en.wikipedia.org/wiki/User:Emijrp/All_Human_Knowledge) - Topics and entities notable enough to be included on Wikipedia.
