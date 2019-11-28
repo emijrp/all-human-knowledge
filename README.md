@@ -85,10 +85,10 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 ## Social media
 
-* Facebook
-* Instagram
-* Telegram
-* Twitter
+* [Facebook](https://www.facebook.com/) - 
+* [Instagram](https://www.instagram.com/) - 
+* [Telegram](https://telegram.org/) - 
+* [Twitter](https://twitter.com/) - 
 
 ## Software
 
