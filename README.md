@@ -24,7 +24,7 @@
 ## Biology
 
 * [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
-* [WikiSpecies](https://species.wikimedia.org/) - 
+* [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles.
 
 ## Film and videos
 
