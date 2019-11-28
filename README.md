@@ -70,7 +70,7 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 ## Music
 
-* [Jamendo](https://www.jamendo.com/) - 
+* [Jamendo](https://www.jamendo.com/) - a community of over 42,000 artists and more than 600,000 tracks.
 * [SoundCloud](https://soundcloud.com/) - 
 
 ## People
