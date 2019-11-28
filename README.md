@@ -101,7 +101,7 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 ## Other
 
-* [Natural History](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - a book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD.
+* [Natural History](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - a book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD. ([Vol 1](https://www.gutenberg.org/ebooks/57493))
 
 ## External links
 
