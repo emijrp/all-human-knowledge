@@ -1,5 +1,9 @@
 # All Human Knowledge
 
+## Astronomy
+
+* Guide Star Catalog - GSC-I contained approximately 20,000,000 stars with apparent magnitudes of 6 to 15. GSC-II contains 945,592,683 stars out to magnitude 21.
+
 ## Books
 
 According to Google there are 129,864,880 books (considering all editions separately).
