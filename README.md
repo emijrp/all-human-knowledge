@@ -24,8 +24,10 @@
 ## Biology
 <img align="right" width="200px" src="images/Ladybird.jpg" />
 
+According to Catalogue of Life, there are [2.2 million species](http://www.catalogueoflife.org/col/info/hierarchy#estimates) on the planet known to taxonomists as of 2019.
+
 * [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
-* [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of the 1.9 million living species known to science.
+* [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of living species known to science.
 * [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles.
 
 ## Film and videos
