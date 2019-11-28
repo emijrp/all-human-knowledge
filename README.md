@@ -9,15 +9,26 @@ According to Google there are 129,864,880 books (considering all editions separa
 * [Open Library](https://openlibrary.org/) - project intended to create "one web page for every book ever published"
 * [Project Gutenberg](https://www.gutenberg.org/) - a library of over 60,000 free eBooks
 
+## Geography
+
+* OpenStreetMap
+
 ## Images
 
-
-## Sounds
-
+* Flickr
+* Wikimedia Commons
 
 ## Software
 
 * [GitHub](https://github.com/) - 32,000,000 public repositories
+
+## Sounds
+
+* SoundCloud
+
+## Species
+
+* WikiSpecies
 
 ## Videos
 
