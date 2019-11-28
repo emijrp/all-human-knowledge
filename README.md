@@ -61,3 +61,7 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 ## External links
 
 * [All Human Knowledge](https://en.wikipedia.org/wiki/User:Emijrp/All_Human_Knowledge) - Topics and entities notable enough to be included on Wikipedia.
+
+# Contributing
+
+For contributing, [open an issue](https://github.com/emijrp/all-human-knowledge/issues) and/or a [pull request](https://github.com/emijrp/all-human-knowledge/pulls).
