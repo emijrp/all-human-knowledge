@@ -1,8 +1,11 @@
 # All Human Knowledge
 
 ## Astronomy
+<img align="right" width="200px" src="images/NGC4676.jpg" />
 
 * Guide Star Catalog - GSC-I contained approximately 20,000,000 stars with apparent magnitudes of 6 to 15. GSC-II contains 945,592,683 stars out to magnitude 21.
+* Messier
+* NGC
 
 ## Books
 
