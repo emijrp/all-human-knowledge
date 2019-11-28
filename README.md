@@ -3,7 +3,7 @@
 ## Astronomy
 <img align="right" width="200px" src="images/NGC4676.jpg" />
 
-* [Guide Star Catalog](https://archive.stsci.edu/gsc/) - GSC-I contains approximately 19 million stars with apparent magnitudes of 6 to 15. GSC II is an all-sky catalog of approximately 2 billion stars and galaxies.
+* [Guide Star Catalog](https://archive.stsci.edu/gsc/) - GSC-I contains 19 million stars with apparent magnitudes of 6 to 15. GSC-II is an all-sky catalog of 2 billion stars and galaxies.
 * [Messier Catalogue](https://en.wikipedia.org/wiki/Messier_object) - a set of 110 astronomical objects catalogued by the French astronomer Charles Messier.
 * [New General Catalgoue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - a set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
 
