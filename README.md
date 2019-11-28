@@ -45,7 +45,7 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 ## Geography
 
-* [GeoNames](http://www.geonames.org/) - 
+* [GeoNames](http://www.geonames.org/) - it contains over 25 million geographical names corresponding to over 11 million unique features.
 * [OpenStreetMap](https://www.openstreetmap.org/) - 
 
 ## GLAM
