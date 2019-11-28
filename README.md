@@ -24,9 +24,10 @@ According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Hersche
 * [New General Catalgoue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - a set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
 
 ## Biology
-<img align="right" width="200px" src="images/Ladybird.jpg" />
 
 According to Catalogue of Life, there are [2.2 million species](http://www.catalogueoflife.org/col/info/hierarchy#estimates) on the planet known to taxonomists as of 2019.
+
+<img align="right" width="200px" src="images/Ladybird.jpg" />
 
 * [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
 * [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of living species known to science.
