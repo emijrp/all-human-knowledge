@@ -17,7 +17,7 @@
 ## Astronomy
 <img align="right" width="200px" src="images/NGC4676.jpg" />
 
-According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe), the number of galaxies in the observable universe is 2×10<sup>12</sup> and as many as 1×10<sup>24</sup> stars (more stars than all the grains of sand on planet Earth).
+According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe), the number of galaxies in the observable universe is 2×10<sup>12</sup> (two trillion) and as many as 1×10<sup>24</sup> stars (more stars than all the grains of sand on planet Earth).
 
 * [Guide Star Catalog](https://archive.stsci.edu/gsc/) - GSC-I contains 19 million stars with apparent magnitudes of 6 to 15. GSC-II is an all-sky catalog of 2 billion stars and galaxies.
 * [Messier Catalogue](https://en.wikipedia.org/wiki/Messier_object) - a set of 110 astronomical objects catalogued by Charles Messier.
