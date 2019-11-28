@@ -8,6 +8,7 @@
     - [GLAM](#glam)
     - [Literature, languages and publications](#literature-languages-and-publications)
     - [Music](#music)
+    - [People](#people)
     - [Photography](#photography)
     - [Software](#software)
     - [Social media](#social-media)
@@ -71,6 +72,10 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 * [Jamendo](https://www.jamendo.com/) - 
 * [SoundCloud](https://soundcloud.com/) - 
+
+## People
+
+* [Find a Grave](https://www.findagrave.com/) - a database of cemetery records, over 152 million burial records and 75 million photos.
 
 ## Photography
 
