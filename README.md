@@ -32,6 +32,8 @@ According to Catalogue of Life, there are [2.2 million species](http://www.catal
 * [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of living species known to science.
 * [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles.
 
+Some related inactive projects are [All Species Foundation](https://en.wikipedia.org/wiki/All_Species_Foundation), [Tree of Life](http://www.tolweb.org/tree/) and [The Plant List](http://www.theplantlist.org/).
+
 ## Film and videos
 
 * [IMDb](https://www.imdb.com/) - 
