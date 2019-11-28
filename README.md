@@ -101,6 +101,8 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 ## Other
 
+<img align="right" width="200px" src="images/Etymologiae.jpg" />
+
 * [Natural History](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - a book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD. ([Vol 1](https://www.gutenberg.org/ebooks/57493))
 * [Etymologiae](https://en.wikipedia.org/wiki/Etymologiae) - an etymological encyclopedia, which summarized and organized a wealth of knowledge from hundreds of classical sources, compiled by Isidore of Seville (c. 560–636) towards the end of his life.
 
