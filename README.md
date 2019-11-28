@@ -50,7 +50,7 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 ## GLAM
 
-* [Bibliothèque nationale de France](https://www.bnf.fr/) - 
+* [Bibliothèque nationale de France](https://www.bnf.fr/) - 15 million books and publications, 1.5 million sound recordings, 900,000 maps, 260,000 videos ([see details](https://www.bnf.fr/fr/la-bnf-en-chiffres)).
 * [British Library](https://www.bl.uk/) - 
 * [Library of Congress](https://loc.gov/) - 
 * [National Diet Library](https://www.ndl.go.jp/) - 
