@@ -41,6 +41,7 @@ According to Google there are 129,864,880 books (considering all editions separa
 
 ## Species
 
+* Catalogue of Life
 * WikiSpecies
 
 ## Videos
