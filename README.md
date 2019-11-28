@@ -10,8 +10,7 @@
     - [Music](#music)
     - [Photography](#photography)
     - [Software](#software)
-    - [Websites](#websites)
-    - [Other](#other)
+    - [Social media](#social-media)
 - [Contributing](#contributing)
 
 ## Astronomy
@@ -79,21 +78,17 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 * [Geograph Britain and Ireland](https://www.geograph.org.uk/) - archive of over 5 million geographically located photographs of Great Britain and Ireland.
 * [Wikimedia Commons](https://commons.wikimedia.org/) - a collection of 57 million freely usable media files to which anyone can contribute.
 
-## Software
-
-* [GitHub](https://github.com/) - 32 million public repositories
-* [Google Code Archive](https://code.google.com/archive/) -  it contains over 1.4 million projects.
-
-## Websites
+## Social media
 
 * Facebook
 * Instagram
 * Telegram
 * Twitter
 
-## Other
+## Software
 
-* ...
+* [GitHub](https://github.com/) - 32 million public repositories
+* [Google Code Archive](https://code.google.com/archive/) -  it contains over 1.4 million projects.
 
 ## External links
 
