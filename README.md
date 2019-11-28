@@ -13,6 +13,15 @@ According to Google there are 129,864,880 books (considering all editions separa
 
 * OpenStreetMap
 
+## GLAM
+
+* Bibliothèque nationale de France
+* British Library
+* Library of Congress
+* National Diet Library
+* National Library of China
+* Russian State Library
+
 ## Images
 
 * Flickr
