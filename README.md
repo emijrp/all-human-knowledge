@@ -12,6 +12,7 @@
     - [Photography](#photography)
     - [Software](#software)
     - [Social media](#social-media)
+    - [Other](#other)
 - [Contributing](#contributing)
 
 ## Astronomy
@@ -97,6 +98,10 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 * [Software Heritage](https://www.softwareheritage.org/) - it holds over 20 million software projects, with an archive of over 2.7 billion unique source files as of 2016.
 
 Some related inactive projects are [Gitorious](https://gitorious.org/) and [Google Code](https://code.google.com/).
+
+## Other
+
+* [Natural History](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - a book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD.
 
 ## External links
 
