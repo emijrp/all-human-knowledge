@@ -45,7 +45,8 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 ## Geography
 
-* [OpenStreetMap](https://www.openstreetmap.org/)
+* [GeoNames](http://www.geonames.org/) - 
+* [OpenStreetMap](https://www.openstreetmap.org/) - 
 
 ## GLAM
 
