@@ -22,8 +22,10 @@
 * [New General Catalgoue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - a set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
 
 ## Biology
+<img align="right" width="200px" src="images/Ladybird.jpg" />
 
 * [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
+* [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of the 1.9 million living species known to science.
 * [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles.
 
 ## Film and videos
