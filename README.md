@@ -23,12 +23,12 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 ## GLAM
 
-* Bibliothèque nationale de France
-* British Library
-* Library of Congress
-* National Diet Library
-* National Library of China
-* Russian State Library
+* [Bibliothèque nationale de France](https://www.bnf.fr/) - 
+* [British Library](https://www.bl.uk/) - 
+* [Library of Congress](https://loc.gov/) - 
+* [National Diet Library](https://www.ndl.go.jp/) - 
+* [National Library of China](http://www.nlc.cn/) - 
+* [Russian State Library](https://www.rsl.ru/) - 
 
 ## Images
 
