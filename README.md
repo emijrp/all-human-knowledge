@@ -100,6 +100,10 @@ According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-sta
 
 Some related inactive projects are [Gitorious](https://gitorious.org/) and [Google Code](https://code.google.com/).
 
+## Knowledge preservation
+
+* [Arch Mission Foundation](https://archmission.org/) - non-profit organization whose goal is to create multiple redundant repositories of human knowledge around the Solar System, including on Earth. It was founded by Nova Spivack and Nick Slavin in 2015.
+
 ## Other
 
 <img align="right" width="200px" src="images/Etymologiae.jpg" />
