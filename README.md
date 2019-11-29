@@ -51,11 +51,12 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 ## GLAM
 
-* [Bibliothèque nationale de France](https://www.bnf.fr/) - 15 million books and publications, 1.5 million sound recordings, 900,000 maps, 260,000 videos ([details](https://www.bnf.fr/fr/la-bnf-en-chiffres)).
-* [British Library](https://www.bl.uk/) - 60 million patents, 13.5 million printed books and e-books, 8 million stamps, 7 million sound recordings, 4 million maps, 310,000 manuscripts ([details](https://www.bl.uk/about-us/our-story/facts-and-figures-of-the-british-library)).
+* [Bibliothèque nationale de France](https://www.bnf.fr/) - 15 million books and publications, 1.5 million sound recordings, 900,000 maps, 260,000 videos. ([Details](https://www.bnf.fr/fr/la-bnf-en-chiffres)) ([Metadata](https://data.bnf.fr/))
+* [British Library](https://www.bl.uk/) - 60 million patents, 13.5 million printed books and e-books, 8 million stamps, 7 million sound recordings, 4 million maps, 310,000 manuscripts. ([Details](https://www.bl.uk/about-us/our-story/facts-and-figures-of-the-british-library)) ([Metadata](https://www.bl.uk/collection-metadata/downloads))
 * [Library of Congress](https://loc.gov/) - 
 * [National Diet Library](https://www.ndl.go.jp/) - 
 * [National Library of China](http://www.nlc.cn/) - 
+* [National Library of Spain](http://www.bne.es/) - ([Metadata](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/DatosEnlazados/DescargaFicheros/))
 * [Russian State Library](https://www.rsl.ru/) - 
 
 ## Literature, languages and publications
