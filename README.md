@@ -33,7 +33,7 @@ According to Catalogue of Life, there are [2.2 million species](http://www.catal
 
 * [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
 * [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of living species known to science.
-* [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles.
+* [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles. ([Download](https://dumps.wikimedia.org/specieswiki/latest/)) ([2](https://download.kiwix.org/zim/wikispecies/))
 * [World Flora Online](http://www.worldfloraonline.org/) - a compendium of the world's plant species, 1.3 million names, 350,000 accepted species, 55,000 images.
 
 Some related inactive projects are [All Species Foundation](https://en.wikipedia.org/wiki/All_Species_Foundation), [Tree of Life](http://www.tolweb.org/tree/) and [The Plant List](http://www.theplantlist.org/).
@@ -65,10 +65,10 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 * [arXiv](https://arxiv.org/) - a repository of 1.6 million electronic preprints.
 * [Internet Archive Books](https://archive.org/details/texts) - 20 million books and texts freely downloadable.
-* [Open Library](https://openlibrary.org/) - project intended to create "one web page for every book ever published".
-* [Project Gutenberg](https://www.gutenberg.org/) - a library of over 60,000 free eBooks.
+* [Open Library](https://openlibrary.org/) - project intended to create "one web page for every book ever published". ((Metadata)[https://openlibrary.org/developers/dumps])
+* [Project Gutenberg](https://www.gutenberg.org/) - a library of over 60,000 free eBooks. ([Download](https://www.gutenberg.org/MIRRORS.ALL)) ([2](https://archive.org/details/gutenberg))
 * [Rosetta Project](https://rosettaproject.org/) - a disk containing over 13,000 pages of information on over 1,500 human languages.
-* [Wiktionary](https://en.wiktionary.org/) - a dictionary with over 6 million entries from over 4,000 languages.
+* [Wiktionary](https://en.wiktionary.org/) - a dictionary with over 6 million entries from over 4,000 languages. ([Download](https://dumps.wikimedia.org/enwiktionary/latest/)) ([2](https://download.kiwix.org/zim/wiktionary/))
 
 ## Music
 
