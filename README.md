@@ -40,14 +40,14 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 ## Film and videos
 
-* [IMDb](https://www.imdb.com/) - a database with 5.9 million titles (including episodes) and 9.9 million personalities.
+* [IMDb](https://www.imdb.com/) - a database with 5.9 million titles (including episodes) and 9.9 million personalities. ((Download)[https://www.imdb.com/interfaces/])
 * [Vimeo](https://vimeo.com/) - 
 * [YouTube](https://www.youtube.com/) - over 500 hours of video content are uploaded to YouTube every minute.
 
 ## Geography
 
 * [GeoNames](http://www.geonames.org/) - it contains over 25 million geographical names corresponding to over 11 million unique features.
-* [OpenStreetMap](https://www.openstreetmap.org/) - 
+* [OpenStreetMap](https://www.openstreetmap.org/) - ([Download](https://wiki.openstreetmap.org/wiki/Planet.osm))
 
 ## GLAM
 
