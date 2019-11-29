@@ -23,8 +23,8 @@
 According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe), the number of galaxies in the observable universe is 2×10<sup>12</sup> (two trillion) and as many as 1×10<sup>24</sup> stars (more stars than all the grains of sand on planet Earth).
 
 * [Guide Star Catalog](https://archive.stsci.edu/gsc/) - GSC-I contains 19 million stars with apparent magnitudes of 6 to 15. GSC-II is an all-sky catalog of 2 billion stars and galaxies.
-* [Messier Catalogue](https://en.wikipedia.org/wiki/Messier_object) - a set of 110 astronomical objects catalogued by Charles Messier.
-* [New General Catalgoue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - a set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
+* [Messier Catalogue](https://en.wikipedia.org/wiki/Messier_object) - A set of 110 astronomical objects catalogued by Charles Messier.
+* [New General Catalgoue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - A set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
 
 ## Biology
 
@@ -32,22 +32,22 @@ According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Hersche
 
 According to [Catalogue of Life](http://www.catalogueoflife.org/col/info/hierarchy#estimates), there are 2.2 million species on the planet known to taxonomists as of 2019.
 
-* [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
-* [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of living species known to science.
-* [WikiSpecies](https://species.wikimedia.org/) - a comprehensive free content catalogue of all species with over 600,000 articles. ([Download](https://dumps.wikimedia.org/specieswiki/latest/)) ([2](https://download.kiwix.org/zim/wikispecies/))
-* [World Flora Online](http://www.worldfloraonline.org/) - a compendium of the world's plant species, 1.3 million names, 350,000 accepted species, 55,000 images.
+* [Catalogue of Life](http://www.catalogueoflife.org/) - It holds essential information on the names, relationships and distributions of over 1.8 million species.
+* [Encyclopedia of Life](https://eol.org/) - Collaborative encyclopedia intended to document all of living species known to science.
+* [WikiSpecies](https://species.wikimedia.org/) - A comprehensive free content catalogue of all species with over 600,000 articles. ([Download](https://dumps.wikimedia.org/specieswiki/latest/)) ([2](https://download.kiwix.org/zim/wikispecies/))
+* [World Flora Online](http://www.worldfloraonline.org/) - A compendium of the world's plant species, 1.3 million names, 350,000 accepted species, 55,000 images.
 
 Some related inactive projects are [All Species Foundation](https://en.wikipedia.org/wiki/All_Species_Foundation), [Tree of Life](http://www.tolweb.org/tree/) and [The Plant List](http://www.theplantlist.org/).
 
 ## Film and videos
 
-* [IMDb](https://www.imdb.com/) - a database with 5.9 million titles (including episodes) and 9.9 million personalities. ([Download](https://www.imdb.com/interfaces/))
+* [IMDb](https://www.imdb.com/) - A database with 5.9 million titles (including episodes) and 9.9 million personalities. ([Download](https://www.imdb.com/interfaces/))
 * [Vimeo](https://vimeo.com/) - 
-* [YouTube](https://www.youtube.com/) - over 500 hours of video content are uploaded to YouTube every minute.
+* [YouTube](https://www.youtube.com/) - Over 500 hours of video content are uploaded to YouTube every minute.
 
 ## Geography
 
-* [GeoNames](http://www.geonames.org/) - it contains over 25 million geographical names corresponding to over 11 million unique features. ([Download](https://download.geonames.org/export/))
+* [GeoNames](http://www.geonames.org/) - It contains over 25 million geographical names corresponding to over 11 million unique features. ([Download](https://download.geonames.org/export/))
 * [OpenStreetMap](https://www.openstreetmap.org/) - ([Download](https://wiki.openstreetmap.org/wiki/Planet.osm))
 
 ## GLAM
@@ -64,27 +64,27 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html) there are 129,864,880 books (considering all editions separately).
 
-* [arXiv](https://arxiv.org/) - a repository of 1.6 million electronic preprints.
+* [arXiv](https://arxiv.org/) - A repository of 1.6 million electronic preprints.
 * [Internet Archive Books](https://archive.org/details/texts) - 20 million books and texts freely downloadable.
-* [Open Library](https://openlibrary.org/) - project intended to create "one web page for every book ever published". ([Metadata](https://openlibrary.org/developers/dumps))
-* [Project Gutenberg](https://www.gutenberg.org/) - a library of over 60,000 free eBooks. ([Download](https://www.gutenberg.org/MIRRORS.ALL)) ([2](https://archive.org/details/gutenberg)) ([3](https://github.com/GITenberg))
-* [Rosetta Project](https://rosettaproject.org/) - a disk containing over 13,000 pages of information on over 1,500 human languages.
-* [Wiktionary](https://en.wiktionary.org/) - a dictionary with over 6 million entries from over 4,000 languages. ([Download](https://dumps.wikimedia.org/enwiktionary/latest/)) ([2](https://download.kiwix.org/zim/wiktionary/))
+* [Open Library](https://openlibrary.org/) - Project intended to create "one web page for every book ever published". ([Metadata](https://openlibrary.org/developers/dumps))
+* [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks. ([Download](https://www.gutenberg.org/MIRRORS.ALL)) ([2](https://archive.org/details/gutenberg)) ([3](https://github.com/GITenberg))
+* [Rosetta Project](https://rosettaproject.org/) - A disk containing over 13,000 pages of information on over 1,500 human languages.
+* [Wiktionary](https://en.wiktionary.org/) - A dictionary with over 6 million entries from over 4,000 languages. ([Download](https://dumps.wikimedia.org/enwiktionary/latest/)) ([2](https://download.kiwix.org/zim/wiktionary/))
 
 ## Music
 
-* [Jamendo](https://www.jamendo.com/) - a community of over 42,000 artists and more than 600,000 tracks.
+* [Jamendo](https://www.jamendo.com/) - A community of over 42,000 artists and more than 600,000 tracks.
 * [SoundCloud](https://soundcloud.com/) - 
 
 ## People
 
-* [Find a Grave](https://www.findagrave.com/) - a database of cemetery records, over 152 million burial records and 75 million photos.
+* [Find a Grave](https://www.findagrave.com/) - A database of cemetery records, over 152 million burial records and 75 million photos.
 
 ## Photography
 
-* [Flickr](https://www.flickr.com/) - it hosts more than 6 billion images as of 2011.
-* [Geograph Britain and Ireland](https://www.geograph.org.uk/) - archive of over 5 million geographically located photographs of Great Britain and Ireland.
-* [Wikimedia Commons](https://commons.wikimedia.org/) - a collection of 57 million freely usable media files to which anyone can contribute.
+* [Flickr](https://www.flickr.com/) - It hosts more than 6 billion images as of 2011.
+* [Geograph Britain and Ireland](https://www.geograph.org.uk/) - Archive of over 5 million geographically located photographs of Great Britain and Ireland.
+* [Wikimedia Commons](https://commons.wikimedia.org/) - A collection of 57 million freely usable media files to which anyone can contribute.
 
 ## Social media
 
@@ -96,8 +96,8 @@ According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-sta
 ## Software
 
 * [GitHub](https://github.com/) - 32 million public repositories.
-* [Google Code Archive](https://code.google.com/archive/) -  it contains over 1.4 million projects.
-* [Software Heritage](https://www.softwareheritage.org/) - it holds over 20 million software projects, with an archive of over 2.7 billion unique source files as of 2016.
+* [Google Code Archive](https://code.google.com/archive/) -  It contains over 1.4 million projects.
+* [Software Heritage](https://www.softwareheritage.org/) - It holds over 20 million software projects, with an archive of over 2.7 billion unique source files as of 2016.
 
 Some related inactive projects are [Gitorious](https://gitorious.org/) and [Google Code](https://code.google.com/).
 
@@ -116,8 +116,8 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 <img align="right" width="200px" src="images/Etymologiae.jpg" />
 
-* [*Natural History*](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - a book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD. ([Vol 1](https://www.gutenberg.org/ebooks/57493)) ([2](https://www.gutenberg.org/ebooks/60230)) ([3](https://www.gutenberg.org/ebooks/59131)) (4) ([5](https://www.gutenberg.org/ebooks/60688)) (6) ([All](https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)))
-* [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae) - an etymological encyclopedia, which summarized and organized a wealth of knowledge from hundreds of classical sources, compiled by Isidore of Seville (c. 560–636) towards the end of his life.
+* [*Natural History*](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - A book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD. ([Vol 1](https://www.gutenberg.org/ebooks/57493)) ([2](https://www.gutenberg.org/ebooks/60230)) ([3](https://www.gutenberg.org/ebooks/59131)) (4) ([5](https://www.gutenberg.org/ebooks/60688)) (6) ([All](https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)))
+* [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae) - An etymological encyclopedia, which summarized and organized a wealth of knowledge from hundreds of classical sources, compiled by Isidore of Seville (c. 560–636) towards the end of his life.
 
 ## External links
 
