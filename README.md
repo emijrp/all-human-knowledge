@@ -108,6 +108,7 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 * [Arctic World Archive](https://arcticworldarchive.org/) - a world archive to help preserve the world's digital memory and ensure that the world's most irreplaceable digital memories of art, culture and literature are secured and made available to future generations.
 * [International Internet Preservation Consortium](http://netpreserve.org/) - International organization of libraries and other organizations established to coordinate efforts to preserve Internet content for the future.
 * [Internet Archive](https://archive.org/) - San Francisco–based nonprofit digital library with the stated mission of "universal access to all knowledge." It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images and books. As of 2019, its collection topped 50 petabytes.
+* [Long Now Foundation](http://longnow.org/) - non-profit organization based in San Francisco that seeks to become the seed of a very long-term cultural institution. It aims to provide a counterpoint to what it views as today's "faster/cheaper" mindset and to promote "slower/better" thinking. 
 
 ## Other
 
