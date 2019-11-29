@@ -29,7 +29,7 @@ According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Hersche
 
 <img align="right" width="200px" src="images/Ladybird.jpg" />
 
-According to Catalogue of Life, there are [2.2 million species](http://www.catalogueoflife.org/col/info/hierarchy#estimates) on the planet known to taxonomists as of 2019.
+According to [Catalogue of Life](http://www.catalogueoflife.org/col/info/hierarchy#estimates), there are 2.2 million species on the planet known to taxonomists as of 2019.
 
 * [Catalogue of Life](http://www.catalogueoflife.org/) - it holds essential information on the names, relationships and distributions of over 1.8 million species.
 * [Encyclopedia of Life](https://eol.org/) - collaborative encyclopedia intended to document all of living species known to science.
@@ -61,7 +61,7 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 
 ## Literature, languages and publications
 
-According to Google there are [129,864,880 books](https://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html) (considering all editions separately).
+According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html) there are 129,864,880 books (considering all editions separately).
 
 * [arXiv](https://arxiv.org/) - a repository of 1.6 million electronic preprints.
 * [Internet Archive Books](https://archive.org/details/texts) - 20 million books and texts freely downloadable.
