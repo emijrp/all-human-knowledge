@@ -104,6 +104,7 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 * [Arch Mission Foundation](https://archmission.org/) - non-profit organization whose goal is to create multiple redundant repositories of human knowledge around the Solar System, including on Earth. It was founded by Nova Spivack and Nick Slavin in 2015.
 * [Archive Team](https://www.archiveteam.org/) - a loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving digital heritage. Since 2009 this variant force of nature has caught wind of shutdowns, shutoffs, mergers, and plain old deletions - and done their best to save the history before it's lost forever.
+* [Arctic World Archive](https://arcticworldarchive.org/) - a world archive to help preserve the world's digital memory and ensure that the world's most irreplaceable digital memories of art, culture and literature are secured and made available to future generations.
 
 ## Other
 
