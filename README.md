@@ -12,6 +12,7 @@
     - [Photography](#photography)
     - [Software](#software)
     - [Social media](#social-media)
+    - [Knowledge preservation](#knowledge-preservation)
     - [Other](#other)
 - [Contributing](#contributing)
 
