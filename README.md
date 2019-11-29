@@ -65,7 +65,7 @@ According to Google there are [129,864,880 books](https://booksearch.blogspot.co
 
 * [arXiv](https://arxiv.org/) - a repository of 1.6 million electronic preprints.
 * [Internet Archive Books](https://archive.org/details/texts) - 20 million books and texts freely downloadable.
-* [Open Library](https://openlibrary.org/) - project intended to create "one web page for every book ever published". ((Metadata)[https://openlibrary.org/developers/dumps])
+* [Open Library](https://openlibrary.org/) - project intended to create "one web page for every book ever published". ([Metadata](https://openlibrary.org/developers/dumps))
 * [Project Gutenberg](https://www.gutenberg.org/) - a library of over 60,000 free eBooks. ([Download](https://www.gutenberg.org/MIRRORS.ALL)) ([2](https://archive.org/details/gutenberg))
 * [Rosetta Project](https://rosettaproject.org/) - a disk containing over 13,000 pages of information on over 1,500 human languages.
 * [Wiktionary](https://en.wiktionary.org/) - a dictionary with over 6 million entries from over 4,000 languages. ([Download](https://dumps.wikimedia.org/enwiktionary/latest/)) ([2](https://download.kiwix.org/zim/wiktionary/))
