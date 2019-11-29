@@ -28,7 +28,7 @@ According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Hersche
 
 ## Biology
 
-<img align="right" width="200px" src="images/Ladybird.jpg" />
+<img align="right" width="200px" src="images/Ladybird.jpg" title="Ladybird" />
 
 According to [Catalogue of Life](http://www.catalogueoflife.org/col/info/hierarchy#estimates), there are 2.2 million species on the planet known to taxonomists as of 2019.
 
@@ -108,7 +108,7 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 * [Arctic World Archive](https://arcticworldarchive.org/) - A world archive to help preserve the world's digital memory and ensure that the world's most irreplaceable digital memories of art, culture and literature are secured and made available to future generations.
 * [International Internet Preservation Consortium](http://netpreserve.org/) - International organization of libraries and other organizations established to coordinate efforts to preserve Internet content for the future.
 
-<img align="right" width="200px" src="images/InternetArchive.jpg" />
+<img align="right" width="200px" src="images/InternetArchive.jpg" title="Internet Archive" />
 
 * [Internet Archive](https://archive.org/) - San Francisco–based nonprofit digital library with the stated mission of "universal access to all knowledge." It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images and books. As of 2019, its collection topped 50 petabytes.
 * [Long Now Foundation](http://longnow.org/) - Non-profit organization based in San Francisco that seeks to become the seed of a very long-term cultural institution. It aims to provide a counterpoint to what it views as today's "faster/cheaper" mindset and to promote "slower/better" thinking.
@@ -120,7 +120,7 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 ## Other
 
-<img align="right" width="200px" src="images/Etymologiae.jpg" />
+<img align="right" width="200px" src="images/Etymologiae.jpg" title="Etymologiae by Isidore of Seville" />
 
 * [*Natural History*](https://en.wikipedia.org/wiki/Natural_History_(Pliny)) - A book about the whole of the natural world in Latin by Pliny the Elder, a Roman author and naval commander who died in 79 AD. ([Vol 1](https://www.gutenberg.org/ebooks/57493)) ([2](https://www.gutenberg.org/ebooks/60230)) ([3](https://www.gutenberg.org/ebooks/59131)) (4) ([5](https://www.gutenberg.org/ebooks/60688)) (6) ([All](https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)))
 * [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae) - An etymological encyclopedia, which summarized and organized a wealth of knowledge from hundreds of classical sources, compiled by Isidore of Seville (c. 560–636) towards the end of his life.
