@@ -18,7 +18,7 @@
 
 ## Astronomy
 
-<img align="right" width="200px" src="images/NGC4676.jpg" />
+<img align="right" width="200px" src="images/NGC4676.jpg" alt="NGC-4676 or Mice Galaxies" />
 
 According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe), the number of galaxies in the observable universe is 2×10<sup>12</sup> (two trillion) and as many as 1×10<sup>24</sup> stars (more stars than all the grains of sand on planet Earth).
 
