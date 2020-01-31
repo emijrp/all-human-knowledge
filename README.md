@@ -42,7 +42,7 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 ## Film and videos
 
 * [IMDb](https://www.imdb.com/) - A database with 5.9 million titles (including episodes) and 9.9 million personalities. ([Download](https://www.imdb.com/interfaces/))
-* [Vimeo](https://vimeo.com/) - 
+* [Vimeo](https://vimeo.com/) - It contains over 40 million videos.
 * [YouTube](https://www.youtube.com/) - Over 500 hours of video content are uploaded to YouTube every minute.
 
 ## Geography
