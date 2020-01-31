@@ -128,4 +128,4 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 # Contributing
 
-For contributing, [open an issue](https://github.com/emijrp/all-human-knowledge/issues) and/or a [pull request](https://github.com/emijrp/all-human-knowledge/pulls).
+For contributing, [open an issue](https://github.com/emijrp/all-human-knowledge/issues) and/or a [pull request](https://github.com/emijrp/all-human-knowledge/pulls). Thanks.
