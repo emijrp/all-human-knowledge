@@ -88,10 +88,10 @@ According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-sta
 
 ## Social media
 
-* [Facebook](https://www.facebook.com/) - 
-* [Instagram](https://www.instagram.com/) - 
-* [Telegram](https://telegram.org/) - 
-* [Twitter](https://twitter.com/) - 
+* [Facebook](https://www.facebook.com/) - 2.27 billion users.
+* [Instagram](https://www.instagram.com/) - 300 million users.
+* [Telegram](https://telegram.org/) - 300 million users.
+* [Twitter](https://twitter.com/) - 645 million users.
 
 ## Software
 
