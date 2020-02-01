@@ -57,7 +57,7 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 * [Library of Congress](https://loc.gov/) - 38 million books and other printed materials, 3.6 million recordings, 14 million photographs, 5.5 million maps. ([Details](https://www.loc.gov/about/fascinating-facts/))
 * [National Diet Library](https://www.ndl.go.jp/) - 41 million items. ([Details](http://ndl.go.jp/en/aboutus/outline/numerically.html))
 * [National Library of China](http://www.nlc.cn/) - 37 million items.
-* [National Library of Spain](http://www.bne.es/) - ([Metadata](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/DatosEnlazados/DescargaFicheros/))
+* [National Library of Spain](http://www.bne.es/) - 26 million items. ([Metadata](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/DatosEnlazados/DescargaFicheros/))
 * [Russian State Library](https://www.rsl.ru/) - 
 
 ## Literature, languages and publications
