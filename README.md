@@ -58,7 +58,7 @@ Some related inactive projects are [All Species Foundation](https://en.wikipedia
 * [National Diet Library](https://www.ndl.go.jp/) - 41 million items. ([Details](http://ndl.go.jp/en/aboutus/outline/numerically.html))
 * [National Library of China](http://www.nlc.cn/) - 37 million items.
 * [National Library of Spain](http://www.bne.es/) - 26 million items. ([Metadata](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/DatosEnlazados/DescargaFicheros/))
-* [Russian State Library](https://www.rsl.ru/) - 
+* [Russian State Library](https://www.rsl.ru/) - 43 million items.
 
 ## Literature, languages and publications
 
