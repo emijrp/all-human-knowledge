@@ -96,7 +96,7 @@ According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-sta
 
 * [GitHub](https://github.com/) - 32 million public repositories.
 * [Google Code Archive](https://code.google.com/archive/) - It contains over 1.4 million projects.
-* [Software Heritage](https://www.softwareheritage.org/) - It holds over 20 million software projects, with an archive of over 2.7 billion unique source files as of 2016.
+* [Software Heritage](https://www.softwareheritage.org/) - It holds over 91 million software projects, with an archive of over 6.4 billion unique source files as of 2020.
 
 Some related inactive projects are [Gitorious](https://gitorious.org/) and [Google Code](https://code.google.com/).
 
