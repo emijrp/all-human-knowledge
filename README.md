@@ -24,7 +24,7 @@ According to [ESA](https://www.esa.int/Science_Exploration/Space_Science/Hersche
 
 * [Guide Star Catalog](https://archive.stsci.edu/gsc/) - GSC-I contains 19 million stars with apparent magnitudes of 6 to 15. GSC-II is an all-sky catalog of 2 billion stars and galaxies.
 * [Messier Catalogue](https://en.wikipedia.org/wiki/Messier_object) - A set of 110 astronomical objects catalogued by Charles Messier.
-* [New General Catalgoue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - A set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
+* [New General Catalogue](https://en.wikipedia.org/wiki/List_of_NGC_objects) - A set of 7,840 deep-sky objects compiled by John Louis Emil Dreyer.
 
 ## Biology
 
