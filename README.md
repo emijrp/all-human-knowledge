@@ -74,7 +74,6 @@ According to [Google](https://booksearch.blogspot.com/2010/08/books-of-world-sta
 ## Music
 
 * [Jamendo](https://www.jamendo.com/) - A community of over 42,000 artists and more than 600,000 tracks.
-* [SoundCloud](https://soundcloud.com/) - 
 
 ## People
 
