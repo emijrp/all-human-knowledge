@@ -123,7 +123,7 @@ Some related inactive projects are [Gitorious](https://gitorious.org/) and [Goog
 
 ## External links
 
-* [All Human Knowledge](https://en.wikipedia.org/wiki/User:Emijrp/All_Human_Knowledge) - Topics and entities notable enough to be included on Wikipedia.
+* [All Human Knowledge](https://www.wikidata.org/wiki/User:Emijrp/All_Human_Knowledge) - Topics and entities notable enough to be included on Wikipedia.
 
 # Contributing
 
